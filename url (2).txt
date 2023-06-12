@@ -1,0 +1,3 @@
+[Rice Image Dataset](https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset)
+
+[Model Deployment](https://huggingface.co/spaces/andinedwrn/riceclass)
